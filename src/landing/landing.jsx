@@ -22,7 +22,7 @@ class Landing extends React.Component {
             LEDA
           </p>
           <div>
-            <a href="/Ingresar">Ingresar</a> | <a href="/Registrar">Registrarse</a>
+            <a href="/Profile">Ingresar</a> | <a href="/Profile">Registrarse</a>
           </div>
         </header>
       </div>
